@@ -4,7 +4,7 @@ from pynput.keyboard import Key, Listener
 from colorama import Fore
 import sys
 
-chatMessage = "🍚🍚CHAMP RICE!!!!🍚🍚"
+chatMessage = "🍚🍚CHAMPA RICE!!!!🍚🍚"
 stream_ID = "_9Dz65X-kAk"
 
 # Define the scopes required by your application
